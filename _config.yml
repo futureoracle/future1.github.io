@@ -1,7 +1,7 @@
 # Site settings
- title: Nice Blog
- name: Nice Blog # your name
- email: youremail@example.com # your email address
+ title:未来 Blog
+ name: weilai # your name
+ email: fytyre558558@gmail.com # your email address
  description: >
      A Simple Jekyll Blog Theme. # this means to ignore newlines until "baseurl:"
  baseurl: "/Nice_Blog" # the subpath of your site, e.g. /blog
@@ -31,9 +31,19 @@ jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
  
 # Build settings
-permalink: none
+permalink:none
+# paginate: 10
 markdown: kramdown
  theme: jekyll-theme-modernist 
+ 
+ # Sidebar settings
+sidebar: true  #添加侧边栏
+sidebar-about-description: "未来是真的强"
+sidebar-avatar: /  C:\Users\Lenovo\Pictures/1   #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
+
+# Featured Tags
+featured-tags: true  
+featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
  
  # 评论系统
 # Disqus（https://disqus.com/）
