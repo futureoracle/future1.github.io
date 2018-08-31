@@ -18,7 +18,7 @@ skillstree: true # turn on or off the skills tree in about page
 permalink: none
 markdown: kramdown
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
 <!-- Gitalk 评论 start  -->
 
 <!-- Link Gitalk 的支持文件  -->
