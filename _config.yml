@@ -78,3 +78,5 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+
+theme: jekyll-theme-architect
